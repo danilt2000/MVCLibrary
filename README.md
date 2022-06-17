@@ -4,4 +4,4 @@ The library's bookkeeping application
 ![Snímek obrazovky 2022-06-17 123559](https://user-images.githubusercontent.com/75219332/174282174-1336ad88-b759-4213-bc13-8b7edd5f5fff.jpg)
 ![image](https://user-images.githubusercontent.com/75219332/174282674-54278b7f-ef3a-43d8-9ca3-0f89ae252264.png)
 
-Used technologies ASP.Net EF Core
+Used technologies ASP.Net MVC EF Core
